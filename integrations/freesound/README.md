@@ -1,0 +1,1 @@
+Freesound se consulta desde `sound-search`. Está destinado a efectos y ambientes (lluvia, bosque, viento, etc.). Antes de publicar cada sonido, mostrar creador, licencia y atribución requerida. La API gratuita es para uso no comercial según sus términos.

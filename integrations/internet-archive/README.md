@@ -1,0 +1,1 @@
+Integración planificada. No tratar el contenido de Internet Archive como libre por defecto: validar metadatos `licenseurl` y `rights`, además de las condiciones del archivo individual, antes de reproducir o descargar.

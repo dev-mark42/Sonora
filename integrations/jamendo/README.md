@@ -1,0 +1,1 @@
+Jamendo se consulta desde la Edge Function `music-search`. El backend transforma sus resultados a un formato normalizado. La interfaz debe respetar `downloadAllowed`/`audiodownload_allowed` y mostrar atribución, licencia y enlace a la fuente.
